@@ -1,2 +1,2 @@
-# project template
-Template repository for a SEA:ME (OER) project.
+# DES-HelloCAN
+A Distributed Embedded Systems Module Project: HelloCAN.

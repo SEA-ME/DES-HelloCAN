@@ -1,4 +1,4 @@
-# Project XX: Project Title
+# Project 04: Hello CAN
 
 
 # Description
